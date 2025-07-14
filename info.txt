@@ -2,3 +2,4 @@ ather.ton is a project I started working on summer of this year, started out as 
 I'm no professional programmer, not even in lua (the language I created this in). 
 I'm just somebody who has internet access and a little hobby, I of course got other things going on in my life like the gym, investing in stocks now, and spending more time with relationships. 
 This isn't going to last forever and one day I'll move onto bigger and more important things. If you seriously read all of this thank you, if not I understand.
+Enjoy
